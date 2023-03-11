@@ -3,6 +3,5 @@
 	"canEnterViaWarpDrive" : true,
 	"enableTimeLoop": false,
 	"startHere": true,
-    "respawnHere": true,
-    "mapRestricted": true
+    "respawnHere": true
 }

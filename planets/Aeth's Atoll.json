@@ -4,7 +4,7 @@
 	"starSystem": "FSM.Ernestoland",
 	"Atmosphere": {
 		"hasOxygen": true,
-		"size": 775
+		"size": 875
 	},
 	"Base": {
 		"surfaceSize": 750,
@@ -12,7 +12,7 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"primaryBody": "Sun",
+		"primaryBody": "Sola's Providence",
 		"semiMajorAxis": 7000
 	},
 	"Water": {
@@ -30,5 +30,15 @@
 			"y": 0,
 			"z": 775
 		}
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "planets/assets/atoll body.prefab",
+				"assetBundle": "Assets/Aeth Attol Base.prefab",
+				"scale": 70,
+				"keepLoaded": true
+			}
+		]
 	}
 }

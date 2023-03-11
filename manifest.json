@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
   "author": "FunkyShoeMan",
-  "name": "Among the Reefs",
+  "name": "Among The Reefs",
   "uniqueName": "FunkyShoeMan.AmongTheReefs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "owmlVersion": "2.9.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
