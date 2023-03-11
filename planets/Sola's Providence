@@ -1,0 +1,29 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Sola's Providence",
+    "starSystem": "FSM.Ernestoland",
+    "Star": {
+        "size": 1500,
+        "lifespan": 720,
+        "stellarDeathType": "supernova",
+        "stellarRemnantType": "pulsar",
+        "supernovaSize": 500,
+        "tint": {
+            "r": 255,
+            "g": 123,
+            "b": 84
+        },
+        "lightTint": {
+            "r": 255,
+            "g": 208,
+            "b": 93
+        }
+    },
+	"Base": {
+        "centerOfSolarSystem": true,
+		"gravityFallOff": "inverseSquared",
+		"hasMapMarker": true,
+		"surfaceGravity": 50.0,
+		"surfaceSize": 50
+	}
+}
