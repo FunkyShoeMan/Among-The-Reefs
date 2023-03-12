@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Aeth's Atoll",
+	"starSystem": "FSM.Ernestoland",
+	"Atmosphere": {
+		"hasOxygen": true,
+		"size": 875,
+		"atmosphereTint": {
+			"r": 35,
+			"g": 190,
+			"b": 230
+		},
+		"hasRain": true
+	},
+	"Base": {
+		"surfaceSize": 750,
+		"surfaceGravity": 9,
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"primaryBody": "Sola's Providence",
+		"semiMajorAxis": 21000,
+        "isStatic": true
+	},
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/assets/atoll body",
+				"path": "Assets/Aeth Attol Base.prefab",
+				"scale": 2000,
+				"keepLoaded": true
+			}
+		]
+	},
+    "Volumes": {
+        "mapRestrictionVolumes": [
+            {
+                "radius": 500
+            }
+        ]
+    }
+}
