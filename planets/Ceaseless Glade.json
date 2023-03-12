@@ -13,7 +13,7 @@
 		"hasRain": true
 	},
 	"Base": {
-		"surfaceSize": 750,
+		"surfaceSize": 250,
 		"surfaceGravity": 9,
 		"hasMapMarker": false
 	},

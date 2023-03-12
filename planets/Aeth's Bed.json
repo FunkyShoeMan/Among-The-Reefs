@@ -13,7 +13,7 @@
 		"hasRain": true
 	},
 	"Base": {
-		"surfaceSize": 375,
+		"surfaceSize": 250,
 		"surfaceGravity": 6,
 		"hasMapMarker": false
 	},
@@ -29,6 +29,21 @@
 				"path": "Assets/Aeth's Bed.prefab",
 				"scale": 3000,
 				"keepLoaded": true
+			}
+		],
+        "singularities": [
+			{
+				"position": {
+					"x": -60,
+					"y": -65,
+					"z": -287.5
+				},
+				"pairedSingularity": "AttolBH",
+                "uniqueID": "AttolWH",
+                "type": "whiteHole",
+                "distortRadius": 0,
+                "horizonRadius": 1
+				
 			}
 		]
 	},

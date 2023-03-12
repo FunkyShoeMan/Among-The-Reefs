@@ -45,6 +45,16 @@
 				"scale": 6000,
 				"keepLoaded": true
 			}
+		],
+		"singularities": [
+			{
+				"pairedSingularity": "AttolWH",
+				"uniqueID": "AttolBH",
+                "type": "blackHole",
+                "distortRadius": 350,
+                "horizonRadius": 350
+				
+			}
 		]
 	}
 }
