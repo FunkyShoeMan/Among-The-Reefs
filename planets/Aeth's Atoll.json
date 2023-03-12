@@ -4,7 +4,7 @@
 	"starSystem": "FSM.Ernestoland",
 	"Atmosphere": {
 		"hasOxygen": true,
-		"size": 875,
+		"size": 1750,
 		"atmosphereTint": {
 			"r": 35,
 			"g": 190,
@@ -13,28 +13,28 @@
 		"hasRain": true
 	},
 	"Base": {
-		"surfaceSize": 750,
+		"surfaceSize": 1500,
 		"surfaceGravity": 14,
 		"hasMapMarker": true
 	},
 	"Orbit": {
 		"primaryBody": "Sola's Providence",
-		"semiMajorAxis": 8750
+		"semiMajorAxis": 12750
 	},
 	"Water": {
-		"size": 750
+		"size": 1500
 	},
 	"Spawn": {
 		"playerSpawnPoint": {
 			"x": 0,
 			"y": 0,
-			"z": 775
+			"z": 1550
 		},
 		"startWithSuit": true,
 		"shipSpawnPoint": {
-			"x": 25,
+			"x": 50,
 			"y": 0,
-			"z": 775
+			"z": 1550
 		}
 	},
 	"Props": {
@@ -42,7 +42,7 @@
 			{
 				"assetBundle": "planets/assets/atoll body",
 				"path": "Assets/Aeth Attol Base.prefab",
-				"scale": 6000,
+				"scale": 12000,
 				"keepLoaded": true
 			}
 		],
@@ -51,8 +51,8 @@
 				"pairedSingularity": "AttolWH",
 				"uniqueID": "AttolBH",
                 "type": "blackHole",
-                "distortRadius": 350,
-                "horizonRadius": 350
+                "distortRadius": 700,
+                "horizonRadius": 700
 				
 			}
 		]

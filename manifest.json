@@ -3,7 +3,7 @@
   "author": "FunkyShoeMan",
   "name": "Among The Reefs",
   "uniqueName": "FunkyShoeMan.AmongTheReefs",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "owmlVersion": "2.9.0",
   "dependencies": [ "xen.NewHorizons" ]
 }

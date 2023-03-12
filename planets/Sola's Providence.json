@@ -3,7 +3,7 @@
 	"name": "Sola's Providence",
     "starSystem": "FSM.Ernestoland",
     "Star": {
-        "size": 1500,
+        "size": 3200,
         "lifespan": 720,
         "stellarDeathType": "supernova",
         "stellarRemnantType": "pulsar",
