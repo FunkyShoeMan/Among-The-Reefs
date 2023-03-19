@@ -18,9 +18,10 @@
 		"hasMapMarker": false
 	},
 	"Orbit": {
-		"primaryBody": "Sola's Providence",
-		"semiMajorAxis": 21000,
-        "isStatic": true
+		"primaryBody": "The Reefs",
+		"semiMajorAxis": 1500,
+        "isStatic": true,
+		"trueAnomaly": 90
 	},
 	"Props": {
 		"details": [

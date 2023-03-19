@@ -14,12 +14,12 @@
 	},
 	"Base": {
 		"surfaceSize": 250,
-		"surfaceGravity": 6,
+		"surfaceGravity": 4,
 		"hasMapMarker": false
 	},
 	"Orbit": {
-		"primaryBody": "Sola's Providence",
-		"semiMajorAxis": 20000,
+		"primaryBody": "The Reefs",
+		"semiMajorAxis": 1500,
         "isStatic": true
 	},
 	"Props": {

@@ -1,0 +1,18 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "The Reefs",
+	"starSystem": "FSM.Ernestoland",
+	"Base": {
+		"surfaceSize": 5,
+		"surfaceGravity": 1,
+		"hasMapMarker": true
+	},
+    "Cloak": {
+        "radius": 4250
+    },
+	"Orbit": {
+		"primaryBody": "Sola's Providence",
+		"semiMajorAxis": 35000,
+        "isStatic": true
+	}
+}

@@ -22,7 +22,12 @@
 		"semiMajorAxis": 12750
 	},
 	"Water": {
-		"size": 1500
+		"size": 1500,
+		"tint": {
+			"r": 40,
+			"g": 50,
+			"b": 80
+		}
 	},
 	"Spawn": {
 		"playerSpawnPoint": {
@@ -42,7 +47,7 @@
 			{
 				"assetBundle": "planets/assets/atoll body",
 				"path": "Assets/Aeth Attol Base.prefab",
-				"scale": 12000,
+				"scale": 14000,
 				"keepLoaded": true
 			}
 		],
@@ -51,8 +56,8 @@
 				"pairedSingularity": "AttolWH",
 				"uniqueID": "AttolBH",
                 "type": "blackHole",
-                "distortRadius": 700,
-                "horizonRadius": 700
+                "distortRadius": 825,
+                "horizonRadius": 825
 				
 			}
 		]
