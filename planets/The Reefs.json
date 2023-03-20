@@ -7,9 +7,6 @@
 		"surfaceGravity": 1,
 		"hasMapMarker": true
 	},
-    "Cloak": {
-        "radius": 4250
-    },
 	"Orbit": {
 		"primaryBody": "Sola's Providence",
 		"semiMajorAxis": 35000,

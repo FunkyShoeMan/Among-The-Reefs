@@ -22,12 +22,7 @@
 		"semiMajorAxis": 12750
 	},
 	"Water": {
-		"size": 1500,
-		"tint": {
-			"r": 40,
-			"g": 50,
-			"b": 80
-		}
+		"size": 1500
 	},
 	"Spawn": {
 		"playerSpawnPoint": {
