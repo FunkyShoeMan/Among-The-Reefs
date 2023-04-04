@@ -40,8 +40,8 @@
 	"Props": {
 		"details": [
 			{
-				"assetBundle": "planets/assets/atoll body",
-				"path": "Assets/Aeth Attol Base.prefab",
+				"assetBundle": "planets/assets/aeth attol with valley",
+				"path": "Assets/Aeth Atool with Valley.prefab",
 				"scale": 14000,
 				"keepLoaded": true
 			}
