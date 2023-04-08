@@ -4,7 +4,7 @@
 	"starSystem": "FSM.Ernestoland",
 	"Atmosphere": {
 		"hasOxygen": true,
-		"size": 1750,
+		"size": 1550,
 		"atmosphereTint": {
 			"r": 35,
 			"g": 190,
@@ -13,7 +13,7 @@
 		"hasRain": true
 	},
 	"Base": {
-		"surfaceSize": 1500,
+		"surfaceSize": 1200,
 		"surfaceGravity": 14,
 		"hasMapMarker": true
 	},
@@ -22,27 +22,27 @@
 		"semiMajorAxis": 12750
 	},
 	"Water": {
-		"size": 1500
+		"size": 1000
 	},
 	"Spawn": {
 		"playerSpawnPoint": {
 			"x": 0,
-			"y": 0,
-			"z": 1550
+			"y": 1050,
+			"z": 0
 		},
 		"startWithSuit": true,
 		"shipSpawnPoint": {
 			"x": 50,
-			"y": 0,
-			"z": 1550
+			"y": 1050,
+			"z": 0
 		}
 	},
 	"Props": {
 		"details": [
 			{
 				"assetBundle": "planets/assets/aeth attol with valley",
-				"path": "Assets/Aeth Atool with Valley.prefab",
-				"scale": 14000,
+				"path": "Assets/Aeth Attol with Valley.prefab",
+				"scale": 85,
 				"keepLoaded": true
 			}
 		],
@@ -51,8 +51,8 @@
 				"pairedSingularity": "AttolWH",
 				"uniqueID": "AttolBH",
                 "type": "blackHole",
-                "distortRadius": 825,
-                "horizonRadius": 825
+                "distortRadius": 565,
+                "horizonRadius": 560
 				
 			}
 		]
